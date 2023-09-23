@@ -1,0 +1,1202 @@
+[
+    {
+        "Project": {
+            "Title": "Project 1",
+            "Technologies": "Python, HTML, CSS, Machine Learning, Deep Learning"
+        },
+        "Technical_Skillset": {
+            "Frontend": "HTML, CSS, JavaScript",
+            "Backend": "Python",
+            "Databases": "",
+            "Infrastructre": ""
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 2",
+            "Technologies": "Java Spring Boot, Hibernate, MySQL"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React JS",
+            "Backend": "Java, Spring Boot, Hibernate",
+            "Databases": "MySQL",
+            "Infrastructre": "Not specified"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 3",
+            "Technologies": "Java, HTML, CSS, JavaScript"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React, HTML, CSS",
+            "Backend": "Java, Python Django, Flask",
+            "Databases": "MySQL, MongoDB, Postgres",
+            "Infrastructre": "AWS, Azure OCR, Apache, Docker"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 4",
+            "Technologies": "Websockets, Redis, Channel layers"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React",
+            "Backend": "Python Django, Django Rest",
+            "Databases": "MySQL",
+            "Infrastructre": "Not Mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 5",
+            "Technologies": "Python, Scrapy framework, MongoDB"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React Native",
+            "Backend": "Python, Django",
+            "Databases": "MongoDB",
+            "Infrastructre": "Not Specified"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 6",
+            "Technologies": "Postman, Docker, Jenkins, Java, Spring Boot"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React, Angular",
+            "Backend": "Spring Boot, Java",
+            "Databases": "",
+            "Infrastructre": "Postman, Docker, Jenkins"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 7",
+            "Technologies": "React JS, JWT Authentication, Local Storage"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React JS, HTML, CSS, JavaScript",
+            "Backend": "Node JS",
+            "Databases": "MongoDB",
+            "Infrastructre": "Not Mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 8",
+            "Technologies": "Python, Django, API"
+        },
+        "Technical_Skillset": {
+            "Frontend": "No experience",
+            "Backend": "Python Django, API",
+            "Databases": "Not mentioned",
+            "Infrastructre": "Not mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 9",
+            "Technologies": "React, Node, Java"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React, Java, Angular, Node, JavaScript",
+            "Backend": "Node",
+            "Databases": "SQL",
+            "Infrastructre": ""
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 10",
+            "Technologies": "React JS, Redux, HTML, CSS, Bootstrap, Material UI, Socket.io, Python Django"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React JS, HTML, CSS, Bootstrap, Material UI",
+            "Backend": "Python Django",
+            "Databases": "",
+            "Infrastructre": ""
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 11",
+            "Technologies": "React JS, Node JS, TNT database"
+        },
+        "Technical_Skillset": {
+            "Frontend": "HTML, CSS, JavaScript, React JS",
+            "Backend": "Node JS",
+            "Databases": "SQL, TNT",
+            "Infrastructre": "Not mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 12",
+            "Technologies": "React JS, Mongo DB, MVC architecture"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React JS",
+            "Backend": "Mongo DB",
+            "Databases": "Mongo DB",
+            "Infrastructre": "Not mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 13",
+            "Technologies": "Python, Java, Redis, caching, pagination, liquibase"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React, Next js",
+            "Backend": "Python Django and Spring frameworks",
+            "Databases": "Not Specified",
+            "Infrastructre": "Not Specified"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 14",
+            "Technologies": "Python, AWS, JavaScript, Node JS, Docker"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Angular, JavaScript, TypeScript",
+            "Backend": "Python, Java, Node JS, AWS Lambda functions",
+            "Databases": "SQL",
+            "Infrastructre": "Docker, AWS"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 15",
+            "Technologies": "Java, Spring Framework"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React",
+            "Backend": "Python, Django, Java, Spring Framework",
+            "Databases": "Not Mentioned",
+            "Infrastructre": "Not Mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 16",
+            "Technologies": "SQL, Cloud, Ecommerce, Haru, Spoke"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React, Angular, Next.js",
+            "Backend": "SQL, MySQL, Oracle, Java, NoSQL",
+            "Databases": "SQL, MySQL, Oracle, NoSQL",
+            "Infrastructre": "Cloud platforms"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 17",
+            "Technologies": "HTML, CSS, Node.js, SQL, MongoDB"
+        },
+        "Technical_Skillset": {
+            "Frontend": "HTML, CSS, React",
+            "Backend": "Node.js",
+            "Databases": "SQL, MongoDB",
+            "Infrastructre": "Not Mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 18",
+            "Technologies": "Java, Spring Boot, Angular, HTML, CSS, JavaScript, SQL"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Angular, React, Next js",
+            "Backend": "Python Django, Spring",
+            "Databases": "SQL",
+            "Infrastructre": "HTTPD"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 19",
+            "Technologies": "Machine learning, Linear and Logistic Regression"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React, Angular",
+            "Backend": "Python Django, Java Spring",
+            "Databases": "",
+            "Infrastructre": ""
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 20",
+            "Technologies": "AWS, Node JS, Aurora DB, React, Python, TypeScript, JavaScript, CICD pipelines, ECS containers and topics"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React",
+            "Backend": "Python, Node.js",
+            "Databases": "Aurora DB",
+            "Infrastructre": "AWS, ECS containers"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 21",
+            "Technologies": "Django, Elasticview"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React",
+            "Backend": "Django",
+            "Databases": "Not mentioned",
+            "Infrastructre": "Not mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 22",
+            "Technologies": "Third Party APIs, Encryption and Decryption Algorithms"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Angular, React, Next.js",
+            "Backend": "Node.js, Express",
+            "Databases": "Not Mentioned",
+            "Infrastructre": "Not Mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 23",
+            "Technologies": "Java, React/TypeScript"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React, Next JS, Google Auth",
+            "Backend": "Java Spring Framework",
+            "Databases": "Not Specified",
+            "Infrastructre": "Not Specified"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 24",
+            "Technologies": "Java, Python, SQL, MongoDB, Mongoose, Passport, React and Express"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React JS (Beginner level, Self-rated 7/10)",
+            "Backend": "Java, Python, SQL (Self-rated 7/10)",
+            "Databases": "MongoDB, SQL",
+            "Infrastructre": "No information provided"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 25",
+            "Technologies": "API, Event-based system"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Reactjs",
+            "Backend": "Node JS, TypeScript, JavaScript",
+            "Databases": "Postgre SQL",
+            "Infrastructre": "Flutter"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 26",
+            "Technologies": "React, React Native"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React, React Native",
+            "Backend": "Not experienced, but a quick learner",
+            "Databases": "Not mentioned",
+            "Infrastructre": "Not mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 27",
+            "Technologies": "Fitbit API, Isolation Forest Algorithm, Email Service"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React",
+            "Backend": "Express, JavaScript",
+            "Databases": "Not Mentioned",
+            "Infrastructre": "Not Mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 28",
+            "Technologies": "Node JS, Puppeteer"
+        },
+        "Technical_Skillset": {
+            "Frontend": "JavaScript, React, Angular",
+            "Backend": "Node JS, Express, Python, Django",
+            "Databases": "",
+            "Infrastructre": "AWS"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 29",
+            "Technologies": "Java, PostgreSQL"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React",
+            "Backend": "Java",
+            "Databases": "PostgreSQL",
+            "Infrastructre": "Not Mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 30",
+            "Technologies": "React JS, Node JS, Express JS, MongoDB"
+        },
+        "Technical_Skillset": {
+            "Frontend": "HTML, CSS, JavaScript, jQuery",
+            "Backend": "PHP Codeigniter, Django",
+            "Databases": "MongoDB",
+            "Infrastructre": "Not specified"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 31",
+            "Technologies": "Python Django, Flask, Spring Boot"
+        },
+        "Technical_Skillset": {
+            "Frontend": "ReactJS",
+            "Backend": "Python Django, Flask, Spring Boot",
+            "Databases": "",
+            "Infrastructre": ""
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 32",
+            "Technologies": "Node JS, JavaScript"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Angular, React, Next js",
+            "Backend": "Node.js, Python Django",
+            "Databases": "Postman",
+            "Infrastructre": ""
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 33",
+            "Technologies": "Machine Learning, Random Forest, Extra Trees Regressor, Light Gradient Boosting"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React JS",
+            "Backend": "Node JS, Express JS",
+            "Databases": "Not mentioned",
+            "Infrastructre": "Not mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 34",
+            "Technologies": "CA framework, Python APIs, React"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React",
+            "Backend": "Python, Node.js",
+            "Databases": "Not mentioned",
+            "Infrastructre": "Not mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 35",
+            "Technologies": "Node JS, TypeScript, MongoDB"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Not Specified",
+            "Backend": "Node JS",
+            "Databases": "MongoDB",
+            "Infrastructre": "Not Specified"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 36",
+            "Technologies": "Java, Retrofit, MVC pattern"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React Native",
+            "Backend": "Java",
+            "Databases": "Not mentioned",
+            "Infrastructre": "Not mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 37",
+            "Technologies": "Multicast graded CNN model, Hybrid recommender system"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Not mentioned",
+            "Backend": "Back-end frameworks and APIs",
+            "Databases": "Not mentioned",
+            "Infrastructre": "Not mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 38",
+            "Technologies": "Java, JavaScript, Android app development, Firebase, Node.js, MongoDB, Postman"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React, HTML, CSS",
+            "Backend": "Node.js",
+            "Databases": "MongoDB, Firebase",
+            "Infrastructre": "Firebase"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 39",
+            "Technologies": "React JS, Node JS, HTML, CSS, JavaScript, EJS"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React JS, HTML, CSS, JavaScript, EJS",
+            "Backend": "Node JS",
+            "Databases": "Not Mentioned",
+            "Infrastructre": "Not Mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 40",
+            "Technologies": "Javascript, SQL, Report Labs, React, Python Django, Java, Spring Boot, MySQL"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React, HTML, CSS, JavaScript",
+            "Backend": "Python Django, Java, Spring Boot",
+            "Databases": "MySQL, Sequel Lite",
+            "Infrastructre": ""
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 41",
+            "Technologies": "DuckDuckGo API, React Native, TypeScript"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React Native",
+            "Backend": "Prayat",
+            "Databases": "Not mentioned",
+            "Infrastructre": "Not mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 42",
+            "Technologies": "HTML, CSS, JavaScript, Tableau, Power BI, SQL, C++"
+        },
+        "Technical_Skillset": {
+            "Frontend": "HTML, CSS, JavaScript, React JS",
+            "Backend": "None mentioned",
+            "Databases": "SQL",
+            "Infrastructre": "None mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 43",
+            "Technologies": "Decentralized anomaly detection system, machine learning, attention mechanism"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Angular, React, Next js",
+            "Backend": "Java, Spring Boot, JavaScript API",
+            "Databases": "Not mentioned",
+            "Infrastructre": "Not mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 44",
+            "Technologies": "Azure APIs and SAS fulfillment APIs"
+        },
+        "Technical_Skillset": {
+            "Frontend": "",
+            "Backend": "Azure APIs and SAS fulfillment APIs",
+            "Databases": "SQL and NoSQL",
+            "Infrastructre": ""
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 45",
+            "Technologies": "Java, AWS DynamoDB"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Learning React.js",
+            "Backend": "Java",
+            "Databases": "AWS DynamoDB",
+            "Infrastructre": "AWS"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 46",
+            "Technologies": "HTML, CSS, JavaScript, React JS, Python Django, Express"
+        },
+        "Technical_Skillset": {
+            "Frontend": "HTML, CSS, JavaScript, React JS",
+            "Backend": "Python Django, Express",
+            "Databases": "Not mentioned",
+            "Infrastructre": "Not mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 47",
+            "Technologies": "PHP, JavaScript, jQuery, HTML, CSS, Bootstrap, MySQL, Node JS, Express JS, MongoDB"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Bootstrap, JavaScript, jQuery",
+            "Backend": "PHP, Node.js, Express.js",
+            "Databases": "MySQL, MongoDB",
+            "Infrastructre": "Not Mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 48",
+            "Technologies": "Python, Django, HTML, CSS, JavaScript"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Angular, React, Next js",
+            "Backend": "Python Django, ASP.NET",
+            "Databases": "",
+            "Infrastructre": ""
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 49",
+            "Technologies": "KN algorithm, Flutter, Dart, Firebase"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React",
+            "Backend": "Node.js",
+            "Databases": "",
+            "Infrastructre": ""
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 50",
+            "Technologies": "React, Node.js, API development"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React",
+            "Backend": "Node.js",
+            "Databases": "MongoDB",
+            "Infrastructre": "Not mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 51",
+            "Technologies": "Machine Learning, Smart Analysis"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Not Specified",
+            "Backend": "Django",
+            "Databases": "Not Specified",
+            "Infrastructre": "Not Specified"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 52",
+            "Technologies": "React, Django"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React",
+            "Backend": "Django",
+            "Databases": "Not mentioned",
+            "Infrastructre": "Not mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 53",
+            "Technologies": "Angular, React, Next js, Python Django, Express JS"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Angular, React, Next js",
+            "Backend": "Python Django, Express JS",
+            "Databases": "Not mentioned",
+            "Infrastructre": "Not mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 54",
+            "Technologies": "MongoDB, Express JS, Node JS, Java"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Angular, React, Next js",
+            "Backend": "Python Django, Node.js",
+            "Databases": "MongoDB",
+            "Infrastructre": "Not mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 55",
+            "Technologies": "Solidity"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React.js",
+            "Backend": "Node.js",
+            "Databases": "MongoDB",
+            "Infrastructre": "Not provided"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 56",
+            "Technologies": "NLTK library, Text BLOB and SVC"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Not Mentioned",
+            "Backend": "Python",
+            "Databases": "Not Mentioned",
+            "Infrastructre": "Not Mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 57",
+            "Technologies": "React Jsonschema, Material React Table, Promises, Batch Functions"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React, CJS, Redux, HTML, CSS",
+            "Backend": "Python",
+            "Databases": "Unknown",
+            "Infrastructre": "Messenger, Python, and machine learning"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 58",
+            "Technologies": "TypeScript, Node.js"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Angular",
+            "Backend": "Node.js",
+            "Databases": "Not Mentioned",
+            "Infrastructre": "Not Mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 59",
+            "Technologies": "React, Angular, Next.js, Python, Django, Flask, MongoDB, MySQL"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React, Angular, Next.js",
+            "Backend": "Python, Django, Flask",
+            "Databases": "MongoDB, MySQL",
+            "Infrastructre": "Not Provided"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 60",
+            "Technologies": "React, Python, SQL, Java, C"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React",
+            "Backend": "Python Flask",
+            "Databases": "SQL",
+            "Infrastructre": ""
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 61",
+            "Technologies": "HTML, Form groups, S3 bucket"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Angular, React, Next.js",
+            "Backend": "Spring Boot, Django",
+            "Databases": "MySQL",
+            "Infrastructre": "Engine X"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 62",
+            "Technologies": "Python, Django, Django Rest Framework"
+        },
+        "Technical_Skillset": {
+            "Frontend": "No information provided",
+            "Backend": "Python, Django, Django Rest Framework",
+            "Databases": "No information provided",
+            "Infrastructre": "No information provided"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 63",
+            "Technologies": "Lambda, AWS, API gateway, React"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React, Redux",
+            "Backend": "Node.js, Python Django",
+            "Databases": "Not mentioned",
+            "Infrastructre": "AWS"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 64",
+            "Technologies": "Django, React, Alpha Vantage API"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React",
+            "Backend": "Python Django",
+            "Databases": "Not mentioned",
+            "Infrastructre": "Not mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 65",
+            "Technologies": "JavaScript, HTML, CSS, Google Fonts, React Icon, Responsiveness"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React, TypeScript",
+            "Backend": "Node, Express",
+            "Databases": "Not Mentioned",
+            "Infrastructre": "Not Mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 66",
+            "Technologies": "Digital Marketing"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React, Angular",
+            "Backend": "Node",
+            "Databases": "Not Mentioned",
+            "Infrastructre": "Not Mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 67",
+            "Technologies": "React, Next JS, Node JS, Express, SQLite, MongoDB, Prisma"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React, Next JS",
+            "Backend": "Node JS, Express",
+            "Databases": "SQLite, MongoDB, Prisma",
+            "Infrastructre": "Not Mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 68",
+            "Technologies": "Micro service architecture, Spring MVC, Spring Cloud"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Interest in learning",
+            "Backend": "Java, Spring and Spring boot framework, REST APIs, micro services architecture",
+            "Databases": "Hadoop ecosystem",
+            "Infrastructre": "Micro services architecture"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 69",
+            "Technologies": "TypeScript, FCM token, Socket IO, Google Descriptive APIs, Natural Language Processing"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Not specified",
+            "Backend": "Python",
+            "Databases": "Not specified",
+            "Infrastructre": "Not specified"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 70",
+            "Technologies": "Python, AI, ML"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React JS",
+            "Backend": "Django, Python",
+            "Databases": "Not specified",
+            "Infrastructre": "Not specified"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 71",
+            "Technologies": "Node JS, Express JS, MySQL, AWS, GitLab, Sonar, Swagger APIs"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React",
+            "Backend": "Node.js, Express.js",
+            "Databases": "MongoDB, MySQL",
+            "Infrastructre": "AWS"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 72",
+            "Technologies": "React JS, Akka microservices, Postgres, MongoDB, Sequel"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Angular JS, React",
+            "Backend": "Scala, Akka, Play framework",
+            "Databases": "Postgres, MongoDB",
+            "Infrastructre": "Not specified"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 73",
+            "Technologies": "Amazon SQS, Kafka"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Angular, React, Next js",
+            "Backend": "Python Django",
+            "Databases": "Unspecified",
+            "Infrastructre": "Docker"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 74",
+            "Technologies": "Postman, JUnit, threads, Jenkins, Docker"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Angular, React, Next js",
+            "Backend": "Python Django, Spring Boot",
+            "Databases": "",
+            "Infrastructre": "Docker, Jenkins"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 75",
+            "Technologies": "Cron job"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React",
+            "Backend": "Not specified",
+            "Databases": "Not specified",
+            "Infrastructre": "Not specified"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 76",
+            "Technologies": "JavaScript"
+        },
+        "Technical_Skillset": {
+            "Frontend": "JavaScript, React",
+            "Backend": "JavaScript",
+            "Databases": "Not Discussed",
+            "Infrastructre": "Not Discussed"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 77",
+            "Technologies": "Django, Front-end and Back-end development"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Basic knowledge",
+            "Backend": "Basic knowledge",
+            "Databases": "Not mentioned",
+            "Infrastructre": "Not mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 78",
+            "Technologies": "ASP.NET, CSS, HTML, SQL Server"
+        },
+        "Technical_Skillset": {
+            "Frontend": "CSS, HTML, JavaScript, Ajax, Bootstrap",
+            "Backend": "ASP.NET MVC",
+            "Databases": "SQL Server",
+            "Infrastructre": "Not Mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 79",
+            "Technologies": "Java, WS, AWS, Lambda Functions, Cloud Watch, MongoDB, Express, React, Node JS"
+        },
+        "Technical_Skillset": {
+            "Frontend": "ReactJS",
+            "Backend": "NodeJS, ExpressJS",
+            "Databases": "MongoDB",
+            "Infrastructre": "AWS"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 80",
+            "Technologies": "EF Core API, Angular, Azure"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Angular JS",
+            "Backend": ".Net, SQL",
+            "Databases": "SQL",
+            "Infrastructre": "Azure"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 81",
+            "Technologies": "Machine learning, Linear regression"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Undetermined",
+            "Backend": "Python, FAST API",
+            "Databases": "Undetermined",
+            "Infrastructre": "PyCharm"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 82",
+            "Technologies": "JavaScript, External Libraries"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Angular, React, Next js",
+            "Backend": "Python",
+            "Databases": "Not Mentioned",
+            "Infrastructre": "Not Mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 83",
+            "Technologies": "Machine Learning, Cosine Similarity"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React, HTML, CSS, JavaScript",
+            "Backend": "",
+            "Databases": "",
+            "Infrastructre": ""
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 84",
+            "Technologies": "React, Node, Express, MongoDB, PostgreSQL, Django, Python"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React",
+            "Backend": "Node, Express, Django, Python",
+            "Databases": "MongoDB, PostgreSQL",
+            "Infrastructre": ""
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 85",
+            "Technologies": "MongoDB, Angular, JavaScript, CSS, HTML, Python"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Angular, React, Next.js",
+            "Backend": "Python Django, Fast APIs, Notes",
+            "Databases": "MongoDB",
+            "Infrastructre": "Not Mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 86",
+            "Technologies": "C++, Java, AWS, Spring Framework, J Unit, Machine Learning, Linux, AOP"
+        },
+        "Technical_Skillset": {
+            "Frontend": "JavaScript, React JS, HTML, CSS",
+            "Backend": "Node JS, Java, AWS, Spring Framework",
+            "Databases": "Not mentioned",
+            "Infrastructre": "AWS"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 87",
+            "Technologies": "Open AI, Machine Learning Models, Python Libraries for Audio Conversion and Prompt Engineering"
+        },
+        "Technical_Skillset": {
+            "Frontend": "4-5/10",
+            "Backend": "Python Django, 7-8/10",
+            "Databases": "Not Mentioned",
+            "Infrastructre": "Not Mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 88",
+            "Technologies": "Java, AWS Lambda"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React",
+            "Backend": "Node.js, Express.js",
+            "Databases": "MongoDB",
+            "Infrastructre": "AWS"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 89",
+            "Technologies": "MongoDB, Node JS, JavaScript, JWT, React Native"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Reactjs, React Native",
+            "Backend": "Node.js, Express",
+            "Databases": "MongoDB, PostgreSQL",
+            "Infrastructre": "Knowledge not specified"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 90",
+            "Technologies": "Pega, Python Node JS, Theme Cosmos"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Python Node JS",
+            "Backend": "No prior experience with backend frameworks",
+            "Databases": "Not mentioned",
+            "Infrastructre": "Not mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 91",
+            "Technologies": "React, Next.js, Python Django, Node.js, Express.js"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React, Next.js",
+            "Backend": "Python Django, Node.js, Express.js",
+            "Databases": "Unknown",
+            "Infrastructre": "Unknown"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 92",
+            "Technologies": "Machine Learning, Front-end and Backend Frameworks, AWS"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Unknown",
+            "Backend": "Unknown",
+            "Databases": "Unknown",
+            "Infrastructre": "AWS"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 93",
+            "Technologies": "JavaScript, HTML, CSS, Bootstrap, Express JS, Node JS"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React, Redux, HTML, JavaScript, CSS, Bootstrap",
+            "Backend": "Express JS, Node JS",
+            "Databases": "MongoDB",
+            "Infrastructre": "Not provided"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 94",
+            "Technologies": "CSS, HTML, CSS, JavaScript, Python, MySQL"
+        },
+        "Technical_Skillset": {
+            "Frontend": "Angular, React, Next js",
+            "Backend": "No Experience",
+            "Databases": "MySQL",
+            "Infrastructre": "No Experience"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 95",
+            "Technologies": "React JS, Redux, React Hooks"
+        },
+        "Technical_Skillset": {
+            "Frontend": "HTML, CSS, JavaScript, React JS",
+            "Backend": "Node JS, C&C",
+            "Databases": "Not provided",
+            "Infrastructre": "Not provided"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 96",
+            "Technologies": "React JS, Node.js"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React JS",
+            "Backend": "Node.js (Learning)",
+            "Databases": "Not Mentioned",
+            "Infrastructre": "Not Mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 97",
+            "Technologies": "Mongoose, React JS, Node JS"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React JS",
+            "Backend": "Node JS",
+            "Databases": "Mongoose",
+            "Infrastructre": "Not Mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 98",
+            "Technologies": "Open pose, MRCP CNN, Pandas, scikit learn, Python"
+        },
+        "Technical_Skillset": {
+            "Frontend": "HTML, JavaScript, jQuery, CSS",
+            "Backend": "Python, Django",
+            "Databases": "MySQL, MSSQL",
+            "Infrastructre": "Not Mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 99",
+            "Technologies": "React.js, Redux, Schema UI, Config one UI, Live Swiggy API, Conflict one UI"
+        },
+        "Technical_Skillset": {
+            "Frontend": "React.js",
+            "Backend": "Willing to learn",
+            "Databases": "Good understanding of data structures and algorithms",
+            "Infrastructre": "Not Mentioned"
+        }
+    },
+    {
+        "Project": {
+            "Title": "Project 100",
+            "Technologies": "Front-end and Back-end frameworks"
+        },
+        "Technical_Skillset": {
+            "Frontend": "7.5/10",
+            "Backend": "08-Oct",
+            "Databases": "Not Mentioned",
+            "Infrastructre": "Azure DevOps"
+        }
+    }
+]
