@@ -1,5 +1,6 @@
+// Import necessary dependencies and configure environment variables
 import express from 'express';
-import connectDB from './db.js';
+import connectDB from './db.js'; // Import the database connection function
 import projectRoutes from './routes/projectRoutes.js';
 import dotenv from 'dotenv';
 import cors from 'cors';
@@ -19,7 +20,7 @@ app.use(cors());
 // Define your API routes
 app.use('/', projectRoutes);
 
-// Create a route to handle the search
+// Create a route to handle the search (commented out for reference)
 // app.post('/search', async (req, res) => {
 //     console.log(req.body);
 //     try {
@@ -50,7 +51,9 @@ app.use('/', projectRoutes);
 //     }
 // });
 
+
 // Start the Express.js server
+
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}!`);
 });

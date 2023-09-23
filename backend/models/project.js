@@ -1,5 +1,7 @@
+// Import the Mongoose library for creating MongoDB schemas and models
 import mongoose from "mongoose";
 
+// Define a schema for the Project model
 const projectSchema = new mongoose.Schema({
     Project: {
         Title: String,
@@ -13,6 +15,7 @@ const projectSchema = new mongoose.Schema({
     },
 });
 
+// Create the Project model using the defined schema
 const Project = mongoose.model('Project', projectSchema);
 
 export default Project;
